@@ -3,10 +3,10 @@ import Resume from '../../assets/Resume.pdf'
 
 const CTA = () => {
   return (
-	<div className='resume'>
-		<a href={Resume} download className='btn'>Download Resume</a>
-		<a href="#contact" className='btn btn-primary'>Contact Me</a>
-	</div>
+		<div className='resume'>
+			<a href={Resume} download className='btn'>Download Resume</a>
+			<a href="#contact" className='btn btn-primary'>Contact Me</a>
+		</div>
   )
 }
 
