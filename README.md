@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# How to Build Portfolio Website with React
+
+For this project, I was following the youtube video [React Portfolio Website Tutorial From Scratch - Build & Deploy React JS Portfolio Website (2022)](https://www.youtube.com/watch?v=G-Cr00UYokU) by [EGATOR](https://www.youtube.com/@EGATORTUTORIALS). Thanks to him!
+
+Also, I wrote the step by step guide for myself to remember on [my blog](https://jnpnote.com). 
+
+- [How to Build Portfolio Website with React-part1](https://jnpnote.com/how-to-build-portfolio-website-with-react-part1/)
+- [How to Build Portfolio Website with React-part2](https://jnpnote.com/how-to-build-portfolio-website-with-react-part2/)
+- [How to Build Portfolio Website with React-part3](https://jnpnote.com/how-to-build-portfolio-website-with-react-part3/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
