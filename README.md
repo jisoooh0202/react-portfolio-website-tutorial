@@ -7,6 +7,8 @@ Also, I wrote the step by step guide for myself to remember on [my blog](https:/
 - [How to Build Portfolio Website with React-part1](https://jnpnote.com/how-to-build-portfolio-website-with-react-part1/)
 - [How to Build Portfolio Website with React-part2](https://jnpnote.com/how-to-build-portfolio-website-with-react-part2/)
 - [How to Build Portfolio Website with React-part3](https://jnpnote.com/how-to-build-portfolio-website-with-react-part3/)
+- [How to Build Portfolio Website with React-part4](https://jnpnote.com/how-to-build-portfolio-website-with-react-part4/)
+- [How to Build Portfolio Website with React-part5](https://jnpnote.com/how-to-build-portfolio-website-with-react-part5/)
 
 ## Getting Started with Create React App
 
