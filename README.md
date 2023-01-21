@@ -14,6 +14,10 @@ Also, I wrote the step by step guide for myself to remember on [my blog](https:/
 
 Run `npm install` to install all the packages, then run `npm start` to run the project
 
+## For Contact Form Submit
+
+You need to edit your EmailJS related ids. If you need how to do this, you can see [my post](https://jnpnote.com/how-to-build-portfolio-website-with-react-part5/#emailjs) how to add them.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
