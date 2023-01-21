@@ -10,6 +10,10 @@ Also, I wrote the step by step guide for myself to remember on [my blog](https:/
 - [How to Build Portfolio Website with React-part4](https://jnpnote.com/how-to-build-portfolio-website-with-react-part4/)
 - [How to Build Portfolio Website with React-part5](https://jnpnote.com/how-to-build-portfolio-website-with-react-part5/)
 
+## To Start the Project
+
+Run `npm install` to install all the packages, then run `npm start` to run the project
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
