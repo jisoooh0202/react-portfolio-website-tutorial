@@ -9,6 +9,7 @@ Also, I wrote the step by step guide for myself to remember on [my blog](https:/
 - [How to Build Portfolio Website with React-part3](https://jnpnote.com/how-to-build-portfolio-website-with-react-part3/)
 - [How to Build Portfolio Website with React-part4](https://jnpnote.com/how-to-build-portfolio-website-with-react-part4/)
 - [How to Build Portfolio Website with React-part5](https://jnpnote.com/how-to-build-portfolio-website-with-react-part5/)
+- [How to Deploy React Project to RaspberryPi](https://jnpnote.com/how-to-deploy-react-project-to-raspberry-pi/)
 
 ## To Start the Project
 
